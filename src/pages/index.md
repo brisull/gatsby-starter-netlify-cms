@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Pretty good coffee with a conscience
+title: Pretty darn good coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Pretty good coffee with a conscience
+heading: Pretty darn good coffee with a conscience
 subheading: Support sustainable farming while enjoying a cuppa
 mainpitch:
   title: Why Kaldi
